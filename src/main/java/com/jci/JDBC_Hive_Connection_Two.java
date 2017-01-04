@@ -166,6 +166,7 @@ public class JDBC_Hive_Connection_Two {
                             	System.out.println("Publishing to Git. Attepmt 01. Change 03");
                             	System.out.println("Publishing to Git. Day 02. Change 04");
                             	System.out.println("Publishing to Git. Day 02. Change 05");
+                            	System.out.println("Publishing to Git. Day 02. Change 06");
                             	
                             } /*catch (ClassNotFoundException e) {
 								// TODO: handle exception
