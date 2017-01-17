@@ -162,7 +162,7 @@ public class JDBC_Hive_Connection_Two {
                             	
                             	System.out.println("Exiting getConnection !");
                             	
-                            	System.out.println("Publishing to Git. Day 07. Change 10");
+                            	System.out.println("Publishing to Git. Day 09. Change 12");
                             	
                             } /*catch (ClassNotFoundException e) {
 								// TODO: handle exception
@@ -261,7 +261,7 @@ public class JDBC_Hive_Connection_Two {
             
             System.out.println("Test ended  ");
            // JOptionPane.showMessageDialog(null, "Completed!");
-            Scanner scanner = new Scanner(System.in);
+           /* Scanner scanner = new Scanner(System.in);
             System.out.print("Please enter your name: ");
             //String name = System.console().readLine();
             String name = scanner.next();
@@ -271,7 +271,7 @@ public class JDBC_Hive_Connection_Two {
             else{
             	JOptionPane.showMessageDialog(null, "Completed!");
                 
-            }
+            }*/
     }
 
 }
